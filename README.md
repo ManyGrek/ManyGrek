@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManyGrek
 - 👀 I’m interested in science, engineering and music!
-- 🌱 I’m currently data engineering fundamentals with PySpark
+- 🌱 I’m currently learning data engineering fundamentals with PySpark and Hadoop
 - 💞️ I’m looking to collaborate on data science projects as a data engineer or a data scientist
 - 📫 How to reach me manuelizael@gmail.com
 
